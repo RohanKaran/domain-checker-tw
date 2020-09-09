@@ -1,0 +1,25 @@
+{
+    "name": "expired-domains-finder",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "login": "node login.js",
+        "sync-db": "node sync-db.js",
+        "find-deleted": "node deleted.js",
+        "find-pending": "node pending.js",
+        "sheets-auth": "node sheets-auth.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.20.0",
+        "better-sqlite3": "^7.1.0",
+        "cheerio": "^1.0.0-rc.3",
+        "googleapis": "^59.0.0",
+        "md5-file": "^5.0.0",
+        "moment": "^2.27.0",
+        "single-line-log": "^1.1.2"
+    }
+}

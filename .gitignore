@@ -1,0 +1,6 @@
+.idea
+node_modules
+input/*
+cookies.json
+token.json
+domains.db*
