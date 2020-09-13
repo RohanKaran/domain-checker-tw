@@ -4,11 +4,6 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "login": "node login.js",
-        "sync-db": "node sync-db.js",
-        "find-deleted": "node deleted.js",
-        "find-pending": "node pending.js",
-        "sheets-auth": "node sheets-auth.js"
     },
     "keywords": [],
     "author": "",

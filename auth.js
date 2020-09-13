@@ -6,4 +6,3 @@ if (!fs.existsSync("token.json")) {
 } else {
     console.log("Token.json already present");
 }
-
