@@ -5,7 +5,10 @@
     "main": "index.js",
     "scripts": {
     },
-    "keywords": [],
+    "keywords": [
+        "example",
+        "heroku"
+    ],
     "author": "",
     "license": "ISC",
     "dependencies": {
