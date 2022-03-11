@@ -1,5 +1,4 @@
 .idea
 node_modules
 input/*
-cookies.json
 domains.db*
